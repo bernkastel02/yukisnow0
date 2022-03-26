@@ -34,7 +34,7 @@ class Yuki extends Programmer {
 }
 ```
 
-if you like my work
+if you like my work, do oonsider sponsoring or supporting me!
 
 <div align="center">
     my github stats
