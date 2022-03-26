@@ -34,7 +34,7 @@ class Yuki extends Programmer {
 }
 ```
 
-if you like my work, do consider sponsoring or supporting me!
+if you like my work, do consider sponsoring or supporting me! (i might add a section with the lyrics to my favorite song)
 
 <br />
 <br />
