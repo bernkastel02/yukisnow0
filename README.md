@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/irisuwastaken/irisuwastaken/blob/main/bananer.png?raw=true" />
+    <img src="https://github.com/irisuwastaken/irisuwastaken/blob/main/wan.png?raw=true" />
     <h6>~ <i>long-time programmer, and complete lover of snow and all things cold. ❄️</i> ~</h6>
     <!-- badges -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=irisuwastaken.irisuwastaken" />
