@@ -52,7 +52,7 @@ class Yuki extends Programmer {
 <br/>
 
 <div align="center">
-	lyrics of one of my favorite songs, {{artist}} - {{title}}<br /><br />
+	lyrics of one of my favorite songs, <strong>{{artist}} - {{title}}</strong><br /><br />
 	<pre>
 {{lyric-zone}}
 	</pre><br /><br />
