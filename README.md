@@ -52,11 +52,11 @@ class Yuki extends Programmer {
 <br/>
 
 <div align="center">
-	lyrics of one of my favorite songs, not - undefined<br /><br />
+	lyrics of one of my favorite songs, <strong>not - undefined</strong><br /><br />
 	<pre>
 owo uwu
 	</pre><br /><br />
-	last updated: 3/27/2022, 10:02:45 PM, updates every 3 hours
+	last updated: 3/27/2022, 10:04:06 PM, updates every 3 hours
 </div>
 
 
