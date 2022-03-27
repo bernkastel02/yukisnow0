@@ -42,7 +42,7 @@ if you like my work, do consider sponsoring or supporting me! (i might add a sec
 <br />
 
 <div align="center">
-    my github stats
+    ❄️ my github stats
     <br />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=irisuwastaken">
