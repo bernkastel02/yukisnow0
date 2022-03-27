@@ -67,7 +67,7 @@ a
 a
 a
 a
-	</summary></details><br />
+	</pre></summary></details><br />
 
 	last updated: {{last-update}}, updates every hour!
 </div>
