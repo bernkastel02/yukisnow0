@@ -53,8 +53,8 @@ class Yuki extends Programmer {
 
 <div align="center">
 	lyrics of one of my favorite songs, <strong>{{artist}} - {{title}}</strong> (<a href="{{url}}">Song Link</a>)<br /><br />
-	<details> 
-	<summary><pre style="max-height: 250px; overflow: auto;">
+	<details>
+	<pre style="max-height: 250px; overflow: auto;">
 {{lyric-zone}}
 a
 a
@@ -67,7 +67,7 @@ a
 a
 a
 a
-	</pre></summary></details><br />
+	</pre></details><br />
 
 	last updated: {{last-update}}, updates every hour!
 </div>
