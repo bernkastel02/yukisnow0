@@ -14,7 +14,7 @@ i am also an avid freelancer, who loves to maintain high and cool projects, as w
 <br />
 
 some specific things about me:
-### <img align="right" src="https://i.ytimg.com/vi/_h038UvLsFg/maxresdefault.jpg" width="500" height="360" />
+### <img align="right" src="https://i.ytimg.com/vi/_h038UvLsFg/maxresdefault.jpg" width="500" height="400" />
 ```js
 class Yuki extends Programmer {
 	age = 18;
@@ -52,11 +52,11 @@ class Yuki extends Programmer {
 <br/>
 
 <div align="center">
-	lyrics of one of my favorite songs, not - undefined<br /><br />
+	lyrics of one of my favorite songs, {{artist}} - {{title}}<br /><br />
 	<pre>
-owo uwu
+{{lyric-zone}}
 	</pre><br /><br />
-	last updated: 3/27/2022, 4:50:53 PM, updates every hour
+	last updated: {{last-update}}, updates every 3 hours
 </div>
 
 
