@@ -55,10 +55,11 @@ class Yuki extends Programmer {
 	lyrics of one of my favorite songs, <strong>{{artist}} - {{title}}</strong> (<a href="{{url}}">Song Link</a>)<br /><br />
 	<pre>
 
-	
+
 ```
 {{lyric-zone}}
 ```
+
 
 
 	</pre><br />
