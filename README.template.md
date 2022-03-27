@@ -14,7 +14,7 @@ i am also an avid freelancer, who loves to maintain high and cool projects, as w
 <br />
 
 some specific things about me:
-### <img align="right" src="https://i.ytimg.com/vi/_h038UvLsFg/maxresdefault.jpg" width="500" height="400" />
+### <img align="right" src="https://i.ytimg.com/vi/_h038UvLsFg/maxresdefault.jpg" width="500" height="360" />
 ```js
 class Yuki extends Programmer {
 	age = 18;
