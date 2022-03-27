@@ -53,7 +53,8 @@ class Yuki extends Programmer {
 
 <div align="center">
 	lyrics of one of my favorite songs, <strong>Lana Del Ray - Dark Paradise</strong> (<a href="https://www.youtube.com/watch?v=RqzO_t8ZV3M">Song Link</a>)<br /><br />
-	<pre style="max-height: 250px; overflow: auto;">
+	<details> 
+	<summary><pre style="max-height: 250px; overflow: auto;">
 All my friends tell me I should move on<br />
 I'm lying in the ocean, singing your song<br />
 Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh<br />
@@ -148,9 +149,9 @@ a
 a
 a
 a
-	</pre><br />
+	</summary></details><br />
 
-	last updated: 3/27/2022, 10:26:10 PM, updates every hour!
+	last updated: 3/27/2022, 10:28:27 PM, updates every hour!
 </div>
 
 
