@@ -36,24 +36,28 @@ class Yuki extends Programmer {
 }
 ```
 
-<div align="center">
+<div>
 	<div align="left">
-		<p>
-			my media<br/>
-			<a href="https://en.pronouns.page/@yukisnow">💖 my pronouns</a>
-			<a href="https://www.youtube.com/channel/UCRr-MhuqjnrhE6ELfxSujJQ">✨ my youtube</a>
-			<a href="https://twitter.com/yukisnow0_">💤 my twitter</a>
-		</p>
-		</div>
+		my media<br/>
+		<a href="https://en.pronouns.page/@yukisnow">💖 my pronouns</a><br/>
+		<a href="https://www.youtube.com/channel/UCRr-MhuqjnrhE6ELfxSujJQ">✨ my youtube</a><br/>
+		<a href="https://twitter.com/yukisnow0_">💤 my twitter</a>
+	</div>
 	<div align="right">
-		<p>
-			my current projects<br/>
-			<i>none rn</i>
-		</p>
+		my current projects<br/>
+		<i>none rn</i>
 	</div>
 </div>
 
-if you like my work, do consider sponsoring or supporting me! (i might add a section with the lyrics to my favorite song)
+<br/>
+
+<div align="center">
+	lyrics of one of my favorite songs</br></br>
+	<pre>
+{{lyric-zone}}
+	</pre>
+</div>
+
 
 <br />
 <br />
