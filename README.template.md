@@ -56,17 +56,6 @@ class Yuki extends Programmer {
 	<details><summary>Lyrics</summary>
 	<pre style="max-height: 250px; overflow: auto;">
 {{lyric-zone}}
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
 	</pre></details>
 
 	last updated: {{last-update}}, updates every hour!
