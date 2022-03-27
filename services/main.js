@@ -13,6 +13,7 @@ fetch("http://yuki.garden/api/yuki/lyric").then(res => {
         README = README.replace("{{title}}", json.title);
 
         README = README.replace("{{last-update}}", new Date().toLocaleString());
+        README = README.replace("{{url}}", json.url);
         
         // save to readme
         fs.writeFileSync("./README.md", README);

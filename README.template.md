@@ -52,11 +52,11 @@ class Yuki extends Programmer {
 <br/>
 
 <div align="center">
-	lyrics of one of my favorite songs, <strong>{{artist}} - {{title}}</strong><br /><br />
+	lyrics of one of my favorite songs, <strong>{{artist}} - {{title}}</strong> (<a href="{{url}}">Song Link</a>)<br /><br />
 	<pre>
 {{lyric-zone}}
-	</pre><br /><br />
-	last updated: {{last-update}}, updates every 3 hours
+	</pre><br />
+	last updated: {{last-update}}, updates every hour!
 </div>
 
 
