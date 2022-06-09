@@ -52,61 +52,95 @@ class Yuki extends Programmer {
 <br/>
 
 <div align="center">
-	lyrics of one of my favorite songs, <strong>Kanako Itō - Sky of Twilight</strong> (<a href="https://www.youtube.com/watch?v=2Hm_jcpTycI">Song Link</a>)<br /><br />
+	lyrics of one of my favorite songs, <strong>Lana Del Ray - Dark Paradise</strong> (<a href="https://www.youtube.com/watch?v=RqzO_t8ZV3M">Song Link</a>)<br /><br />
 	<details><summary>Lyrics</summary>
 	<pre style="max-height: 250px; overflow: auto;">
-あの空目指してた…<br />
+All my friends tell me I should move on<br />
+I'm lying in the ocean, singing your song<br />
+Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh<br />
+That's how you sang it<br />
 <br />
-歴史は繰り返す 何度でも人の業<br />
-人が人の世を築き<br />
-壊してゆく何度も<br />
-時が過ぎてく 幾千<br />
-それでも人は愛のために<br />
-何度滅びても生きる<br />
+Loving you forever, can't be wrong<br />
+Even though you're not here, won't move on<br />
+Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh<br />
+That's how we played it<br />
 <br />
-この空の向こうにキミがいるなら<br />
-この羽で飛び跳ねて<br />
-今あと少し キミに届きそうな<br />
-指先を伸ばしているのに<br />
-仮初めの夢でも<br />
-この空の向こうに夢があるなら<br />
-キミとその景色見たくて<br />
+And there's no remedy<br />
+For memory<br />
+Your face is like a melody<br />
+It won't leave my head<br />
+Your soul is haunting me<br />
+And telling me<br />
+That everything is fine<br />
+But I wish I was dead<br />
+(Dead like you)<br />
 <br />
-歴史は繰り返す 何度でも人の業<br />
-それでもボクらは人らしく<br />
-今キミとボクがいる黄昏には<br />
-人々 夢があって<br />
-皆がそれぞれの暮らしの中で<br />
-生きている夢をいだいて<br />
-さぁ 今すぐ<br />
-ボクらも歩きだそう 光へ<br />
-この空の向こうに夢があるから<br />
-つかみ取れるはずさキミと<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+I'm scared that you<br />
+Won't be waiting on the other side<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+I'm scared that you<br />
+Won't be waiting on the other side<br />
 <br />
-この先の未来のこと　キミがいたなら<br />
-この空　雲を突き抜けてく<br />
-キミと夢見た場所を目指して　行こう<br />
+All my friends ask me why I stay strong<br />
+Tell 'em when you find true love it lives on<br />
+Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh<br />
+That's why I stay here<br />
 <br />
-この空の向こうに  キミがいるなら<br />
-この羽で飛び跳ねて<br />
-今あと少し  キミに届きそうな<br />
-指先に触れているのに<br />
-キミと描いた　この夢  ここに希望抱いて<br />
-この場所で　そう　キミと二人で行こう<br />
-この空の果てへ　羽ばたいて<br />
-見下そうボクらの大地を<br />
+And there's no remedy<br />
+For memory<br />
+Your face is like a melody<br />
+It won't leave my head<br />
+Your soul is haunting me<br />
+And telling me<br />
+That everything is fine<br />
+But I wish I was dead<br />
+(Dead like you)<br />
 <br />
-仮初の夢でも<br />
-この空の向こうに夢があるなら　<br />
-キミとその景色見て<br />
-いつかきっと掴み取るよ<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+I'm scared that you<br />
+Won't be waiting on the other side<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+But there's no you<br />
+Except in my dreams tonight<br />
 <br />
-黄昏の空へと　向かって<br />
-ボクらは行くのさ<br />
-地平線が赤く燃えるその先へと  さぁ
+Oh-oh-oh-oh-hah-hah-hah-hah<br />
+I don't wanna wake up from this tonight<br />
+Oh-oh-oh-oh-hah-hah-hah-hah<br />
+I don't wanna wake up from this tonight<br />
+<br />
+There's no relief<br />
+I see you in my sleep<br />
+And everybody's rushing me<br />
+But I can feel you touching me<br />
+There's no release<br />
+I feel you in my dreams<br />
+Telling me I'm fine<br />
+<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+I'm scared that you won't be waiting on the other side (So tell me)<br />
+Every time I close my eyes, it's like a dark paradise<br />
+No one compares to you<br />
+But there's no you<br />
+Except in my dreams tonight<br />
+<br />
+Oh-oh-oh-oh-hah-hah-hah-hah<br />
+I don't wanna wake up from this tonight<br />
+Oh-oh-oh-oh-hah-hah-hah-hah<br />
+I don't wanna wake up from this tonight
 	</pre></details>
 
-	last updated: 6/9/2022, 5:20:37 AM, updates every hour!
+	last updated: 6/9/2022, 6:27:54 AM, updates every hour!
 </div>
 
 
