@@ -52,61 +52,76 @@ class Yuki extends Programmer {
 <br/>
 
 <div align="center">
-	lyrics of one of my favorite songs, <strong>Kanako Itō - Sky of Twilight</strong> (<a href="https://www.youtube.com/watch?v=2Hm_jcpTycI">Song Link</a>)<br /><br />
+	lyrics of one of my favorite songs, <strong>Mage - The Words I Never Said</strong> (<a href="https://www.youtube.com/watch?v=8er4CQCxPRQ">Song Link</a>)<br /><br />
 	<details><summary>Lyrics</summary>
 	<pre style="max-height: 250px; overflow: auto;">
-あの空目指してた…<br />
+Always in a rush<br />
+Never stay on the phone long enough<br />
+Why am I so self-important?<br />
+Said I'd see you soon<br />
+That was, oh, maybe a year ago<br />
+Didn't know time was of the essence<br />
 <br />
-歴史は繰り返す 何度でも人の業<br />
-人が人の世を築き<br />
-壊してゆく何度も<br />
-時が過ぎてく 幾千<br />
-それでも人は愛のために<br />
-何度滅びても生きる<br />
+So many questions<br />
+But I'm talking to myself<br />
+I know that you can't hear me anymore<br />
+Not anymore<br />
+So much to tell you<br />
+And most of all goodbye<br />
+But I know that you can't hear me any more<br />
 <br />
-この空の向こうにキミがいるなら<br />
-この羽で飛び跳ねて<br />
-今あと少し キミに届きそうな<br />
-指先を伸ばしているのに<br />
-仮初めの夢でも<br />
-この空の向こうに夢があるなら<br />
-キミとその景色見たくて<br />
+It's so loud inside my head<br />
+With words that I should have said<br />
+As I drown in my regrets<br />
+I can't take back the words I never said<br />
+I never said<br />
+I can't take back the words I never said<br />
+I never said<br />
+I can't take back the words I never said<br />
 <br />
-歴史は繰り返す 何度でも人の業<br />
-それでもボクらは人らしく<br />
-今キミとボクがいる黄昏には<br />
-人々 夢があって<br />
-皆がそれぞれの暮らしの中で<br />
-生きている夢をいだいて<br />
-さぁ 今すぐ<br />
-ボクらも歩きだそう 光へ<br />
-この空の向こうに夢があるから<br />
-つかみ取れるはずさキミと<br />
+It's so loud inside my head<br />
+With words that I should have said<br />
+As I drown in my regrets<br />
+I can't take back the words I never said<br />
 <br />
-この先の未来のこと　キミがいたなら<br />
-この空　雲を突き抜けてく<br />
-キミと夢見た場所を目指して　行こう<br />
+Always talking shit<br />
+Took your advice and did the opposite<br />
+Just being young and stupid<br />
+I haven't been all that you could've hoped for<br />
+But if you'd held on a little longer<br />
+You'd have had more reasons to be proud<br />
 <br />
-この空の向こうに  キミがいるなら<br />
-この羽で飛び跳ねて<br />
-今あと少し  キミに届きそうな<br />
-指先に触れているのに<br />
-キミと描いた　この夢  ここに希望抱いて<br />
-この場所で　そう　キミと二人で行こう<br />
-この空の果てへ　羽ばたいて<br />
-見下そうボクらの大地を<br />
+So many questions<br />
+But I'm talking to myself<br />
+I know that you can't hear me any more<br />
+Not anymore<br />
+So much to tell you<br />
+And most of all goodbye<br />
+But I know that you can't hear me any more<br />
 <br />
-仮初の夢でも<br />
-この空の向こうに夢があるなら　<br />
-キミとその景色見て<br />
-いつかきっと掴み取るよ<br />
+It's so loud inside my head<br />
+With words that I should have said<br />
+And as I drown in my regrets<br />
+I can't take back the words<br />
 <br />
-黄昏の空へと　向かって<br />
-ボクらは行くのさ<br />
-地平線が赤く燃えるその先へと  さぁ
+The longer I stand here<br />
+The louder the silence<br />
+I know that you're gone but sometimes I swear that I hear<br />
+Your voice when the wind blows<br />
+So I talk to the shadows<br />
+Hoping you might be listening 'cause I want you to know<br />
+<br />
+It's so loud inside my head<br />
+With words that I should have said<br />
+And as I drown in my regrets<br />
+I can't take back the words I never said<br />
+I never said<br />
+I can't take back the words I never said<br />
+I never said<br />
+I can't take back the words I never said 
 	</pre></details>
 
-	last updated: 6/14/2022, 12:45:08 PM, updates every hour!
+	last updated: 6/14/2022, 1:36:53 PM, updates every hour!
 </div>
 
 
