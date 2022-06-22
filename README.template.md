@@ -69,5 +69,6 @@ class Yuki extends Programmer {
 	❄️ my github stats
 	<br />
 	<br />
+	<img src="https://github-profile-trophy.vercel.app/?username=yukisnow0">
 	<img src="https://github-readme-stats.vercel.app/api?username=yukisnow0&theme=tokyonight">
 </div>
