@@ -52,76 +52,95 @@ class Yuki extends Programmer {
 <br/>
 
 <div align="center">
-	lyrics of one of my favorite songs, <strong>Mage - The Words I Never Said</strong> (<a href="https://www.youtube.com/watch?v=8er4CQCxPRQ">Song Link</a>)<br /><br />
+	lyrics of one of my favorite songs, <strong>Lana Del Ray - Dark Paradise</strong> (<a href="https://www.youtube.com/watch?v=RqzO_t8ZV3M">Song Link</a>)<br /><br />
 	<details><summary>Lyrics</summary>
 	<pre style="max-height: 250px; overflow: auto;">
-Always in a rush<br />
-Never stay on the phone long enough<br />
-Why am I so self-important?<br />
-Said I'd see you soon<br />
-That was, oh, maybe a year ago<br />
-Didn't know time was of the essence<br />
+All my friends tell me I should move on<br />
+I'm lying in the ocean, singing your song<br />
+Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh<br />
+That's how you sang it<br />
 <br />
-So many questions<br />
-But I'm talking to myself<br />
-I know that you can't hear me anymore<br />
-Not anymore<br />
-So much to tell you<br />
-And most of all goodbye<br />
-But I know that you can't hear me any more<br />
+Loving you forever, can't be wrong<br />
+Even though you're not here, won't move on<br />
+Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh<br />
+That's how we played it<br />
 <br />
-It's so loud inside my head<br />
-With words that I should have said<br />
-As I drown in my regrets<br />
-I can't take back the words I never said<br />
-I never said<br />
-I can't take back the words I never said<br />
-I never said<br />
-I can't take back the words I never said<br />
+And there's no remedy<br />
+For memory<br />
+Your face is like a melody<br />
+It won't leave my head<br />
+Your soul is haunting me<br />
+And telling me<br />
+That everything is fine<br />
+But I wish I was dead<br />
+(Dead like you)<br />
 <br />
-It's so loud inside my head<br />
-With words that I should have said<br />
-As I drown in my regrets<br />
-I can't take back the words I never said<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+I'm scared that you<br />
+Won't be waiting on the other side<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+I'm scared that you<br />
+Won't be waiting on the other side<br />
 <br />
-Always talking shit<br />
-Took your advice and did the opposite<br />
-Just being young and stupid<br />
-I haven't been all that you could've hoped for<br />
-But if you'd held on a little longer<br />
-You'd have had more reasons to be proud<br />
+All my friends ask me why I stay strong<br />
+Tell 'em when you find true love it lives on<br />
+Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh<br />
+That's why I stay here<br />
 <br />
-So many questions<br />
-But I'm talking to myself<br />
-I know that you can't hear me any more<br />
-Not anymore<br />
-So much to tell you<br />
-And most of all goodbye<br />
-But I know that you can't hear me any more<br />
+And there's no remedy<br />
+For memory<br />
+Your face is like a melody<br />
+It won't leave my head<br />
+Your soul is haunting me<br />
+And telling me<br />
+That everything is fine<br />
+But I wish I was dead<br />
+(Dead like you)<br />
 <br />
-It's so loud inside my head<br />
-With words that I should have said<br />
-And as I drown in my regrets<br />
-I can't take back the words<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+I'm scared that you<br />
+Won't be waiting on the other side<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+But there's no you<br />
+Except in my dreams tonight<br />
 <br />
-The longer I stand here<br />
-The louder the silence<br />
-I know that you're gone but sometimes I swear that I hear<br />
-Your voice when the wind blows<br />
-So I talk to the shadows<br />
-Hoping you might be listening 'cause I want you to know<br />
+Oh-oh-oh-oh-hah-hah-hah-hah<br />
+I don't wanna wake up from this tonight<br />
+Oh-oh-oh-oh-hah-hah-hah-hah<br />
+I don't wanna wake up from this tonight<br />
 <br />
-It's so loud inside my head<br />
-With words that I should have said<br />
-And as I drown in my regrets<br />
-I can't take back the words I never said<br />
-I never said<br />
-I can't take back the words I never said<br />
-I never said<br />
-I can't take back the words I never said 
+There's no relief<br />
+I see you in my sleep<br />
+And everybody's rushing me<br />
+But I can feel you touching me<br />
+There's no release<br />
+I feel you in my dreams<br />
+Telling me I'm fine<br />
+<br />
+Every time I close my eyes<br />
+It's like a dark paradise<br />
+No one compares to you<br />
+I'm scared that you won't be waiting on the other side (So tell me)<br />
+Every time I close my eyes, it's like a dark paradise<br />
+No one compares to you<br />
+But there's no you<br />
+Except in my dreams tonight<br />
+<br />
+Oh-oh-oh-oh-hah-hah-hah-hah<br />
+I don't wanna wake up from this tonight<br />
+Oh-oh-oh-oh-hah-hah-hah-hah<br />
+I don't wanna wake up from this tonight
 	</pre></details>
 
-	last updated: 7/19/2022, 5:48:02 AM, updates every hour!
+	last updated: 7/19/2022, 6:28:41 AM, updates every hour!
 </div>
 
 
